@@ -2,6 +2,8 @@
 
 프로그래밍 Q&A 웹사이트 ‘StackOverFlow’ 클론코딩 프로젝트
 
+<img src="https://github.com/codestates-seb/seb45_pre_035/assets/129862727/fd2549b9-0232-4682-90f5-62b2e1558b85">
+
 ## Features
 
 - 이메일 형식의 ID로 회원가입 및 로그인을 할 수 있습니다.
