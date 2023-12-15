@@ -1,5 +1,7 @@
 # StackOverFlow Clone Coding
 
+2023.08.04 - 2023.08.23
+
 프로그래밍 Q&A 웹사이트 ‘StackOverFlow’ 클론코딩 프로젝트
 
 <img src="https://github.com/codestates-seb/seb45_pre_035/assets/129862727/11f42d12-87af-4272-b4ab-6dcbab918e32">
