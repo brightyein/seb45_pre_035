@@ -12,4 +12,4 @@
 
 ## Table ERD
 
-<img width="1110" alt="Untitled (1)" src="https://github.com/codestates-seb/seb45_pre_035/assets/129862727/749d29b1-1254-4600-b133-a97e45b86b7f">
+<img src="https://github.com/codestates-seb/seb45_pre_035/assets/129862727/749d29b1-1254-4600-b133-a97e45b86b7f">
